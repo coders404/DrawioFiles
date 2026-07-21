@@ -7,6 +7,9 @@
         <mxCell id="XIZ4hkpOC5nF-9Pc7O8C-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;strokeWidth=2;fontSize=35;" value="3.1节-设置轮胎角速度" vertex="1">
           <mxGeometry height="40" width="400" x="30" y="50" as="geometry" />
         </mxCell>
+        <mxCell id="XIZ4hkpOC5nF-9Pc7O8C-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="220" y="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
